@@ -153,5 +153,5 @@ dmypy.json
 cython_debug/
 
 # Custom
-config.yml
+
 *.pkl
